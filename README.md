@@ -15,13 +15,13 @@ Node.js (http://nodejs.org/download),
 plotly library (included in node.js installer, install using nmp command at cmdn at project folder), 
 johnny-five library (include in node.js installer, install using npm command at cmd at project folder)
 
-# Code to write
+# Code to Write
 Write to Arduino board: 
 Standard firmata sketch at example at Arduino software file menu, 
 Write to project folder: 
 raw.js with some minor change at username, API key,and token key
 
-# Welldone!
+# Well Done!
 Write 'node raw.js' at cmd at project folder, 
 Open URL given by plotly at cmd using internet browser, 
 Magic happens!
