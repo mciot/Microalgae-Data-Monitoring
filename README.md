@@ -1,5 +1,5 @@
 # Aims
-This project aims to gather data from some sensors which do microalgae monitoring and real-time plot it over internet at plot.ly without ethernet shield or wifi shield!
+This project aims to gather data from some sensors which do microalgae monitoring and real-time plot it over internet at plot.ly without ethernet shield or wifi shield!\n
 It uses node.js, firmata protocol, and johnny-five library over arduino board.
 
 # Things to Prepare
